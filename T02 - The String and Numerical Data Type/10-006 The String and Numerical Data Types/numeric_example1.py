@@ -72,14 +72,18 @@ print(divide)
 print("Example 7: ")
 expression1 = 5 + 6 * 2
 print("expression1 is: ", expression1)
+# 17
 
 expression2 = (5 + 6) * 2 
 print("expression2 is: ", expression2)
+# 22
 
 expression3 = 6 * 4 - 10 / 5 * 2
 print("expression3 is: ", expression3)
+# 20
 
 expression4 = ((15 + 5) - 10) / 2
 print("expression4 is: ", expression4)
+# 5
 
 # ****************** END OF EXAMPLE CODE ********************* #
